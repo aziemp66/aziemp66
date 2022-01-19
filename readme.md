@@ -1,6 +1,8 @@
-# Hello Guys!!! my name is Azie Melza Pratama :sunglasses:
+# Welcome To My Profiles
 
-<img width="400px" align="center" src="/images/quote-i-have-dedicated-my-life-to-the-way-of-allah-most-high-khalid-ibn-al-walid-68-83-60.jpg" alt="Khalid Quotes">
+<img width="100%" align="center" src="/images/quote-i-have-dedicated-my-life-to-the-way-of-allah-most-high-khalid-ibn-al-walid-68-83-60.jpg" alt="Khalid Quotes">
+
+<h2>My Name is Azie Melza Pratama</h2>
 
 I'm currently an aspiring Web-Developer :punch: :punch: :punch:
 

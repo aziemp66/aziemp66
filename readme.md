@@ -1,4 +1,4 @@
-# بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
+# <p align="center">بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</p>
 
 <img width="100%" align="center" src="/images/quote-i-have-dedicated-my-life-to-the-way-of-allah-most-high-khalid-ibn-al-walid-68-83-60.jpg" alt="Khalid Quotes">
 

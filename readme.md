@@ -1,5 +1,7 @@
 # Hello Guys!!! my name is Azie Melza Pratama :sunglasses:
 
+<img width="400px" align="center" src="/images/quote-i-have-dedicated-my-life-to-the-way-of-allah-most-high-khalid-ibn-al-walid-68-83-60.jpg" alt="Khalid Quotes">
+
 I'm currently an aspiring Web-Developer :punch: :punch: :punch:
 
 I'm Studying Computer Science :computer: at Sriwijaya University :school:

@@ -2,7 +2,7 @@
 
 <h2>My Name is Azie Melza Pratama</h2>
 
-I'm currently an aspiring Web-Developer :punch: :punch: :punch:
+I'm a newbie Back-end Developer :punch: :punch: :punch:
 
 I'm Studying Computer Science :computer: at Sriwijaya University :school:
 

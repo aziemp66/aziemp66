@@ -14,8 +14,20 @@ I'm Passionate about : Web Development :heavy_check_mark: Games :heavy_check_mar
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziemp66&" alt="aziemp66" />
 
+<h3 align="center">Used Technologies</h3>
+
+<p align="center">
+<img  src="images/Javascript.png" width="100px"  />
+<img  src="images/Node.js.png" width="100px"  />
+<img  src="images/Express.png" width="200px" height="130px" />
+<img  src="images/MongoDB.png" width="100px" />
+<img  src="images/React.png" width="100px" />
+<img  src="images/java.png" width="100px" />
+<img  src="images/MySQL.png" width="200px" />
+</p>
+
 ---
 
-<img width="100%" align="center" src="/images/quote-i-have-dedicated-my-life-to-the-way-of-allah-most-high-khalid-ibn-al-walid-68-83-60.jpg" alt="Khalid Quotes">
+<img width="100%" align="center" src="/images/Khalid.jpg" alt="Khalid Quotes">
 
 ---

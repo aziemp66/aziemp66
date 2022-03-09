@@ -1,6 +1,6 @@
 # <p align="center">بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</p>
 
-<h2 align="center">My Name is Azie Melza Pratama</h2>
+<h1 align="center">Azie Melza Pratama</h2>
 
 <p>
 I'm a Newbie Back-end Developer :punch: :punch: :punch:
@@ -20,7 +20,7 @@ I'm Passionate about : Web Development :heavy_check_mark: Games :heavy_check_mar
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziemp66&" alt="aziemp66" />
 
-<h3 align="center">Used Technologies</h3>
+<h2 align="center">Used Technologies</h3>
 
 ---
 

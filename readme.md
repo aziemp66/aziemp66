@@ -1,12 +1,18 @@
 # <p align="center">بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</p>
 
-<h2>My Name is Azie Melza Pratama</h2>
+<h2 align="center">My Name is Azie Melza Pratama</h2>
 
+<p>
 I'm a Newbie Back-end Developer :punch: :punch: :punch:
+</p>
 
+<p>
 I'm Studying Computer Science :computer: at Sriwijaya University :school:
+</p>
 
+<p>
 I'm Passionate about : Web Development :heavy_check_mark: Games :heavy_check_mark: and Heavy-Lifting :heavy_check_mark:
+</p>
 
 [![Azie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziemp66&theme=radical&count_private=true)](https://github.com/aziemp66/github-readme-stats)
 

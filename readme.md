@@ -27,7 +27,7 @@ I'm Passionate about : Web Development :heavy_check_mark: Games :heavy_check_mar
 <p align="center">
 <img  src="images/Javascript.png" width="100px"  />
 <img  src="images/Node.js.png" width="100px"  />
-<img  src="images/Express-White-Background.png" width="200px" height="130px" />
+<img  src="images/Express-White-Background.png" width="200px" height="100px" />
 <img  src="images/MongoDB.png" width="100px" />
 </p>
 

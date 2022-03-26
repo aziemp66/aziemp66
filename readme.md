@@ -11,7 +11,7 @@ I'm Studying Computer Science :computer: at Sriwijaya University :school:
 </p>
 
 <p>
-I'm Passionate about : Web Development :heavy_check_mark: & and Heavy-Lifting :heavy_check_mark:
+I'm Passionate about : Web Development :heavy_check_mark: & Heavy-Lifting :heavy_check_mark:
 </p>
 
 [![Azie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziemp66&theme=radical&count_private=true)](https://github.com/aziemp66/github-readme-stats)

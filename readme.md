@@ -26,16 +26,16 @@ I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_c
 
 <p align="center">
 <img  src="images/Javascript.png" width="100px"  />
+<img  src="images/Typescript.svg" width="100px" />
 <img  src="images/Node.js.png" width="100px"  />
 <img  src="images/Express-White-Background.png" width="200px" height="100px" />
-<img  src="images/MongoDB.png" width="100px" />
 </p>
 
 <p align="center">
 <img  src="images/React.png" width="100px" />
 <img  src="images/java.png" width="100px" />
 <img  src="images/MySQL.png" width="200px" />
-<img  src="images/Docker.png" width="150px" />
+<img  src="images/MongoDB.png" width="100px" />
 </p>
 
 ---

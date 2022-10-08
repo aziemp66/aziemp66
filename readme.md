@@ -3,7 +3,7 @@
 <h1 align="center">Azie Melza Pratama</h2>
 
 <p>
-I'm a Newbie Back-end Developer :punch: :punch: :punch:
+I'm a Full-Stack Developer :punch: :punch: :punch:
 </p>
 
 <p>

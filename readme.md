@@ -36,7 +36,7 @@ I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_c
 <img  src="images/java.png" width="100px" />
 <img  src="images/MySQL.png" width="200px" />
 <img  src="images/MongoDB.png" width="100px" />
-<img  src="images/Go.png" width="100px" />
+<img  src="images/Go.png" width="200px" height="90px" />
 </p>
 
 ---

@@ -18,13 +18,14 @@ I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_c
 
 [![Azie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziemp66&theme=radical&layout=compact&hide=ejs,html,php,pug,css,perl,shell,c,python)](https://github.com/aziemp66/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziemp66&" alt="aziemp66" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziemp66&theme=radical" alt="aziemp66" />
 
 <h2 align="center">Used Technologies</h3>
 
 ---
 
 <p align="center">
+<img  src="images/Go.png" width="200px" height="90px" />
 <img  src="images/Javascript.png" width="100px"  />
 <img  src="images/Typescript.svg" width="100px" />
 <img  src="images/Node.js.png" width="100px"  />
@@ -36,7 +37,6 @@ I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_c
 <img  src="images/java.png" width="100px" />
 <img  src="images/MySQL.png" width="200px" />
 <img  src="images/MongoDB.png" width="100px" />
-<img  src="images/Go.png" width="200px" height="90px" />
 </p>
 
 ---

@@ -38,9 +38,3 @@ I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_c
 <img  src="images/MySQL.png" width="200px" />
 <img  src="images/MongoDB.png" width="100px" />
 </p>
-
----
-
-<img width="100%" align="center" src="/images/Khalid.jpg" alt="Khalid Quotes">
-
----

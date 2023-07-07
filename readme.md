@@ -35,6 +35,7 @@ I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_c
 <p align="center">
 <img  src="images/React.png" width="100px" />
 <img  src="images/java.png" width="100px" />
+<img src="images/Postgresql_elephant.svg.png" width="100px" />
 <img  src="images/MySQL.png" width="200px" />
 <img  src="images/MongoDB.png" width="100px" />
 </p>

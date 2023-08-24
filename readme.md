@@ -3,15 +3,7 @@
 <h1 align="center">Azie Melza Pratama</h2>
 
 <p>
-I'm a Full-Stack Developer :punch: :punch: :punch:
-</p>
-
-<p>
-I'm Studying Computer Science :computer: at Sriwijaya University :school:
-</p>
-
-<p>
-I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_check_mark:
+I'm a Full-Stack Back-End Focused Developer :punch: :punch: :punch:
 </p>
 
 <!--- stats & Trophy (start) -->

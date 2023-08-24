@@ -14,11 +14,26 @@ I'm Studying Computer Science :computer: at Sriwijaya University :school:
 I'm Passionate about : Web Development :heavy_check_mark: Heavy-Lifting :heavy_check_mark:
 </p>
 
-[![Azie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziemp66&theme=radical&count_private=true)](https://github.com/aziemp66/github-readme-stats)
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=aziemp66&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aziemp66&theme=radical&hide_border=false" /> 
+</td>
 
-[![Azie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziemp66&exclude_repo=dotfiles,si-biji&theme=radical&layout=compact&hide=ejs,html,pug,css,scss)](https://github.com/aziemp66/github-readme-stats)
+<td width="50%" align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziemp66&theme=radical" alt="aziemp66" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aziemp66&theme=radical&exclude_repo=dotfiles,si-biji&hide=ejs,html,pug,css,scss&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 <h2 align="center">Used Technologies</h3>
 

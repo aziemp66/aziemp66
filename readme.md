@@ -20,7 +20,7 @@ I'm a Full-Stack Back-End Focused Developer :punch: :punch: :punch:
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aziemp66&theme=radical&exclude_repo=dotfiles,si-biji&hide=javascript,ejs,html,pug,css,scss&hide_border=false&no-bg=true&no-frame=true&langs_count=9"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziemp66&layout=donut&theme=radical&exclude_repo=dotfiles,si-biji&hide=javascript,ejs,html,pug,css,scss,python&hide_border=false&no-bg=true&no-frame=true&langs_count=99)](https://github.com/anuraghazra/github-readme-stats)
   
   </td>
 </tr>
